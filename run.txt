@@ -1,0 +1,2 @@
+"C:/Users/Zhen Yang/AppData/Local/Programs/Python/Python39/python.exe" "C:\Users\Zhen Yang\Desktop\src\libEmailLog\run.py"
+pause
