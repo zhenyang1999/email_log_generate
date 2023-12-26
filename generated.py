@@ -166,7 +166,7 @@ class LogFile():
                 line_num += 1
                 if dt_check in line and any(i in line for i in selected_keyword):          
                     last_lines=lines[line_num-1:line_num+30]        # send the last 30 lines message
-
+		    break
 			
 			#num_lines = self.line_checking()
             
